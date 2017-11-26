@@ -1,0 +1,5 @@
+/bin/pinger.js
+/bin/node_modules 
+/bin/client/node_modules 
+/bin/client/index.*
+/schema.json

@@ -1,0 +1,7 @@
+-cp server
+-main Main
+-js ./bin/server.js
+-lib hxnodejs
+-lib tink_web
+-lib tink_http_middleware
+-lib mongo

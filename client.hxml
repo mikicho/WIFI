@@ -1,0 +1,9 @@
+-cp client
+
+-main Main
+-js bin/client/index.js
+
+-debug
+-lib react
+-lib tink_web
+-lib datetime
